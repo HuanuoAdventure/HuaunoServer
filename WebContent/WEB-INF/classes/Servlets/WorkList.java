@@ -81,6 +81,22 @@ public class WorkList extends HttpServlet {
 				jsonObject.put("CODE", "-8");
 			}
 			}
+			else if(WorkType.equals("ToDo")){
+				try {
+					jsonObject=new DominoWorkList().getTodoWorkList(session, id);
+				} catch (Exception e) {
+					// TODO: handle exception
+					jsonObject.put("CODE", "-8");
+				}
+			}
+			else if(WorkType.equals("Finished")){
+					try {
+						jsonObject=new DominoWorkList().getFinishedWorkList(session, id);
+					} catch (Exception e) {
+						// TODO: handle exception
+						jsonObject.put("CODE", "-8");
+					}
+					}
 			
 			System.out.println(jsonObject);
 			out=response.getWriter();

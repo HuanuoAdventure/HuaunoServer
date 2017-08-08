@@ -42,7 +42,8 @@ public class LogTest {
 			ss=NotesFactory.createSession("192.168.0.38:63148","800985","123456");
 			System.out.println("Got session");
 			DominoWorkList dominoWorkList=new DominoWorkList();
-			System.out.println(dominoWorkList.getOngoingWorkList(ss, "800985"));
+			//System.out.println(dominoWorkList.getOngoingWorkList(ss, "800985"));
+			System.out.println(dominoWorkList.getFinishedWorkList(ss, "800985"));
 		} catch (NotesException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
