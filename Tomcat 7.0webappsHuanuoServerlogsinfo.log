@@ -1,0 +1,96 @@
+[INFO ] [2017-07-20 21:26:45,335] CaiTest.DominoInform2:165 - Session created
+ [INFO ] [2017-07-20 21:26:45,458] CaiTest.DominoInform2:167 - Got Database
+ [INFO ] [2017-07-20 21:26:45,618] CaiTest.DominoInform2:173 - Got HView03
+ [INFO ] [2017-07-20 21:26:45,765] CaiTest.DominoInform2:176 - Got documents number:2
+ [INFO ] [2017-07-20 21:26:45,767] CaiTest.DominoInform2:178 - dc is not null
+ [INFO ] [2017-07-20 21:26:46,513] CaiTest.DominoInform2:196 - dc recycled
+ [INFO ] [2017-07-20 21:26:46,565] CaiTest.DominoInform2:198 - view01 recycled
+ [INFO ] [2017-07-20 21:29:46,567] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:29:46,693] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:29:46,862] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:29:47,017] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 21:29:47,018] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:29:47,062] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 21:29:47,115] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 21:32:00,039] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:32:00,224] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:32:00,400] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:32:00,546] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 21:32:00,547] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:32:00,600] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 21:32:00,655] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 21:32:10,251] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:32:10,424] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:32:10,604] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:32:10,767] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 21:32:10,768] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:32:10,814] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 21:32:10,869] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 21:33:40,860] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:33:47,933] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:33:56,684] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:34:09,719] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 21:34:13,664] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:51:07,239] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:51:07,378] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:51:07,575] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:51:07,729] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 21:51:07,730] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:51:07,790] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 21:51:07,836] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 21:51:26,676] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:51:26,836] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:51:26,997] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:51:27,163] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 21:51:27,164] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:51:27,211] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 21:51:27,269] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 21:52:02,797] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 21:52:02,961] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 21:52:03,157] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 21:52:03,300] CaiTest.DominoInform2:356 - Got documents number:17
+ [INFO ] [2017-07-20 21:52:03,302] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 21:52:05,816] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 21:52:05,868] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 22:07:02,923] CaiTest.DominoInform2:277 - Session created
+ [INFO ] [2017-07-20 22:07:03,073] CaiTest.DominoInform2:279 - Got Database
+ [INFO ] [2017-07-20 22:07:03,260] CaiTest.DominoInform2:283 - Got DView01
+ [INFO ] [2017-07-20 22:07:03,413] CaiTest.DominoInform2:287 - Got documents number:12
+ [INFO ] [2017-07-20 22:07:03,507] CaiTest.DominoInform2:291 - doc is not null
+ [INFO ] [2017-07-20 22:07:05,254] CaiTest.DominoInform2:309 - view01 recycled
+ [INFO ] [2017-07-20 22:13:17,752] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 22:13:17,915] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 22:13:18,071] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 22:13:18,233] CaiTest.DominoInform2:356 - Got documents number:17
+ [INFO ] [2017-07-20 22:13:18,233] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 22:13:20,619] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 22:13:20,664] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 22:13:26,948] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 22:13:27,119] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 22:13:27,266] CaiTest.DominoInform2:353 - Got DView02
+ [INFO ] [2017-07-20 22:13:27,408] CaiTest.DominoInform2:356 - Got documents number:0
+ [INFO ] [2017-07-20 22:13:27,409] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 22:13:27,460] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 22:13:27,521] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 22:31:32,911] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 22:31:33,059] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 22:31:33,535] CaiTest.DominoInform2:353 - Got DView03
+ [INFO ] [2017-07-20 22:31:33,700] CaiTest.DominoInform2:356 - Got documents number:8
+ [INFO ] [2017-07-20 22:31:33,701] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 22:31:35,084] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 22:31:35,143] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-20 22:33:01,046] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-20 22:33:01,154] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-20 22:33:01,306] CaiTest.DominoInform2:353 - Got DView03
+ [INFO ] [2017-07-20 22:33:01,458] CaiTest.DominoInform2:356 - Got documents number:81
+ [INFO ] [2017-07-20 22:33:01,458] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-20 22:33:11,729] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-20 22:33:11,779] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-07-21 09:23:50,330] CaiTest.DominoInform2:345 - Session created
+ [INFO ] [2017-07-21 09:23:50,494] CaiTest.DominoInform2:347 - Got Database
+ [INFO ] [2017-07-21 09:23:50,724] CaiTest.DominoInform2:353 - Got DView03
+ [INFO ] [2017-07-21 09:23:50,911] CaiTest.DominoInform2:356 - Got documents number:81
+ [INFO ] [2017-07-21 09:23:50,912] CaiTest.DominoInform2:358 - dc is not null
+ [INFO ] [2017-07-21 09:24:04,122] CaiTest.DominoInform2:376 - dc recycled
+ [INFO ] [2017-07-21 09:24:04,145] CaiTest.DominoInform2:378 - view01 recycled
+ 
