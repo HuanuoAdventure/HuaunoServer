@@ -148,8 +148,8 @@ public class Test_LoginCl extends HttpServlet {
 					ret="1";//Login Success!
 					//颁发令牌 返回json{"code":"xx","id":"xxxx","token":"xxxxxxxxx"}
 					logger.info("Generating Token...");
-					Token loginToken=new Token(uname, rPassword);
-					token=loginToken.getToken();
+		Token loginToken=new Token(uname, rPassword);
+							token=loginToken.getToken();
 					//将令牌存入ServletContext
 					loginToken.putToken(token, this.getServletContext());
 					logger.info("User:"+uname+" successfully login");
