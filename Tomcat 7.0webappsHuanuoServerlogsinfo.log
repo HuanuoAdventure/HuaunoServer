@@ -93,4 +93,399 @@
  [INFO ] [2017-07-21 09:23:50,912] CaiTest.DominoInform2:358 - dc is not null
  [INFO ] [2017-07-21 09:24:04,122] CaiTest.DominoInform2:376 - dc recycled
  [INFO ] [2017-07-21 09:24:04,145] CaiTest.DominoInform2:378 - view01 recycled
+ [INFO ] [2017-08-14 22:42:40,070] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-14 22:42:40,193] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-14 22:42:40,385] DataMid.DominoInform:326 - Got SSView10
+ [INFO ] [2017-08-14 22:42:40,634] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-14 22:42:40,729] DataMid.DominoInform:334 - doc is not null
+ [WARN ] [2017-08-14 22:43:13,142] DataMid.DominoInform:365 - database recycle failed
+ [WARN ] [2017-08-14 22:43:13,148] DataMid.DominoInform:372 - session recycle failed
+ [INFO ] [2017-08-14 22:44:28,044] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-14 22:44:28,166] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-14 22:44:28,300] DataMid.DominoInform:326 - Got SSView10
+ [INFO ] [2017-08-14 22:44:29,550] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-14 22:44:29,647] DataMid.DominoInform:334 - doc is not null
+ [WARN ] [2017-08-14 22:45:03,181] DataMid.DominoInform:365 - database recycle failed
+ [WARN ] [2017-08-14 22:45:03,195] DataMid.DominoInform:372 - session recycle failed
+ [INFO ] [2017-08-14 22:49:26,961] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-14 22:49:27,089] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-14 22:49:27,226] DataMid.DominoInform:326 - Got SSView10
+ [INFO ] [2017-08-14 22:49:27,501] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-14 22:49:27,576] DataMid.DominoInform:334 - doc is not null
+ [WARN ] [2017-08-14 22:49:57,152] DataMid.DominoInform:364 - database recycle failed
+ [WARN ] [2017-08-14 22:49:57,167] DataMid.DominoInform:371 - session recycle failed
+ [INFO ] [2017-08-16 22:03:58,382] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:03:58,533] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:03:59,610] DataMid.DominoInform:326 - Got SSView10
+ [INFO ] [2017-08-16 22:04:24,522] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-16 22:04:24,607] DataMid.DominoInform:334 - doc is not null
+ [INFO ] [2017-08-16 22:05:33,223] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:05:33,672] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:05:33,812] DataMid.DominoInform:326 - Got SSView10
+ [INFO ] [2017-08-16 22:05:34,906] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-16 22:05:35,897] DataMid.DominoInform:335 - doc is not null
+ [INFO ] [2017-08-16 22:07:11,358] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:07:11,502] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:07:11,926] DataMid.DominoInform:326 - Got SSView10
+ [INFO ] [2017-08-16 22:07:14,425] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-16 22:07:14,500] DataMid.DominoInform:335 - doc is not null
+ [INFO ] [2017-08-16 22:29:05,539] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:29:06,586] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:29:08,813] DataMid.DominoInform:325 - Got SSView10
+ [INFO ] [2017-08-16 22:29:09,196] DataMid.DominoInform:329 - Got documents number:38
+ [INFO ] [2017-08-16 22:29:09,197] DataMid.DominoInform:331 - dc is not null
+ [INFO ] [2017-08-16 22:29:16,809] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:29:16,923] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:29:18,281] DataMid.DominoInform:325 - Got SSView10
+ [INFO ] [2017-08-16 22:29:18,946] DataMid.DominoInform:329 - Got documents number:38
+ [INFO ] [2017-08-16 22:29:18,947] DataMid.DominoInform:331 - dc is not null
+ [INFO ] [2017-08-16 22:30:47,802] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:30:47,912] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:30:48,366] DataMid.DominoInform:325 - Got SSView10
+ [INFO ] [2017-08-16 22:30:51,455] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-16 22:30:51,456] DataMid.DominoInform:332 - dc is not null
+ [WARN ] [2017-08-16 22:31:18,289] DataMid.DominoInform:363 - database recycle failed
+ [WARN ] [2017-08-16 22:31:18,302] DataMid.DominoInform:370 - session recycle failed
+ [WARN ] [2017-08-16 22:33:35,930] DataMid.DominoInform:364 - database recycle failed
+ [WARN ] [2017-08-16 22:33:35,936] DataMid.DominoInform:371 - session recycle failed
+ [WARN ] [2017-08-16 22:34:37,035] DataMid.DominoInform:363 - database recycle failed
+ [WARN ] [2017-08-16 22:34:37,051] DataMid.DominoInform:370 - session recycle failed
+ [INFO ] [2017-08-16 22:36:51,411] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:36:51,549] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:36:51,703] DataMid.DominoInform:325 - Got SSView10
+ [INFO ] [2017-08-16 22:36:52,270] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-16 22:36:52,270] DataMid.DominoInform:332 - dc is not null
+ [INFO ] [2017-08-16 22:38:02,524] DataMid.DominoInform:319 - Session created
+ [INFO ] [2017-08-16 22:38:03,570] DataMid.DominoInform:321 - Got Database
+ [INFO ] [2017-08-16 22:38:03,701] DataMid.DominoInform:325 - Got SSView10
+ [INFO ] [2017-08-16 22:38:04,390] DataMid.DominoInform:330 - Got documents number:38
+ [INFO ] [2017-08-16 22:38:04,391] DataMid.DominoInform:332 - dc is not null
+ [INFO ] [2017-08-16 22:39:55,492] DataMid.DominoInform:360 - dc recycled
+ [INFO ] [2017-08-16 22:39:55,527] DataMid.DominoInform:362 - view01 recycled
+ [INFO ] [2017-08-17 12:43:12,928] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:43:13,050] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:43:13,164] DataMid.DominoInform:404 - Got HView05
+ [INFO ] [2017-08-17 12:43:13,291] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 12:44:15,271] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:44:15,381] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:44:15,492] DataMid.DominoInform:404 - Got HView05
+ [INFO ] [2017-08-17 12:44:15,554] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 12:49:13,477] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:49:13,585] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:49:13,775] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 12:49:13,838] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 12:50:33,148] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:50:33,230] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:50:33,325] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 12:50:33,387] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 12:52:18,136] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:52:18,233] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:52:18,342] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 12:52:18,404] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 12:57:01,329] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:57:01,427] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:57:01,527] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 12:57:01,589] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 12:57:30,507] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 12:57:30,603] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 12:57:30,713] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 12:57:30,776] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 14:11:23,145] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 14:11:23,261] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 14:11:23,376] DataMid.DominoInform:405 - Got HHView05
+ [INFO ] [2017-08-17 14:11:23,437] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 14:12:12,762] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 14:12:12,868] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 14:12:12,980] DataMid.DominoInform:405 - Got HHView05
+ [INFO ] [2017-08-17 14:12:13,041] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 14:15:09,983] DataMid.DominoInform:399 - Session created
+ [INFO ] [2017-08-17 14:15:10,091] DataMid.DominoInform:401 - Got Database
+ [INFO ] [2017-08-17 14:15:10,199] DataMid.DominoInform:405 - Got HHView05
+ [INFO ] [2017-08-17 14:15:10,263] DataMid.DominoInform:407 - Got SSView01
+ [INFO ] [2017-08-17 14:20:19,887] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:20:20,013] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:20:20,122] DataMid.DominoInform:406 - Got HHView05
+ [INFO ] [2017-08-17 14:20:20,216] DataMid.DominoInform:409 - Got documents number:0
+ [INFO ] [2017-08-17 14:20:20,216] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:20:20,245] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:20:20,274] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:20:52,015] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:20:52,122] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:20:52,238] DataMid.DominoInform:406 - Got HHView05
+ [INFO ] [2017-08-17 14:20:52,335] DataMid.DominoInform:409 - Got documents number:0
+ [INFO ] [2017-08-17 14:20:52,336] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:20:52,365] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:20:52,393] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:21:27,868] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:21:27,992] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:21:28,106] DataMid.DominoInform:406 - Got HHView05
+ [INFO ] [2017-08-17 14:21:28,203] DataMid.DominoInform:409 - Got documents number:0
+ [INFO ] [2017-08-17 14:21:28,204] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:21:28,233] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:21:28,261] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:23:46,821] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:23:46,917] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:23:47,027] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:23:47,121] DataMid.DominoInform:409 - Got documents number:4
+ [INFO ] [2017-08-17 14:23:47,122] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:24:21,750] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:24:21,855] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:24:21,967] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:24:22,063] DataMid.DominoInform:409 - Got documents number:4
+ [INFO ] [2017-08-17 14:24:22,063] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:24:22,642] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:24:22,671] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:26:54,520] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:26:54,623] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:26:54,739] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:26:54,835] DataMid.DominoInform:409 - Got documents number:0
+ [INFO ] [2017-08-17 14:26:54,836] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:26:54,866] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:26:54,895] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:27:20,730] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:27:20,848] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:27:20,959] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:27:21,055] DataMid.DominoInform:409 - Got documents number:1
+ [INFO ] [2017-08-17 14:27:21,056] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:27:21,382] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:27:21,411] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:30:41,696] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:30:41,799] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:30:41,910] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:30:42,003] DataMid.DominoInform:409 - Got documents number:1
+ [INFO ] [2017-08-17 14:30:42,004] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:30:42,350] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:30:42,378] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:30:48,913] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:30:49,018] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:30:49,127] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:30:49,223] DataMid.DominoInform:409 - Got documents number:1
+ [INFO ] [2017-08-17 14:30:49,223] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:30:49,571] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:30:49,600] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:31:10,703] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:31:10,804] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:31:10,915] DataMid.DominoInform:406 - Got SSView01
+ [INFO ] [2017-08-17 14:31:11,014] DataMid.DominoInform:409 - Got documents number:1
+ [INFO ] [2017-08-17 14:31:11,015] DataMid.DominoInform:411 - dc is not null
+ [INFO ] [2017-08-17 14:31:11,345] DataMid.DominoInform:429 - dc recycled
+ [INFO ] [2017-08-17 14:31:11,374] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-17 14:54:28,092] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:54:28,209] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:54:28,323] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 14:56:02,392] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 14:56:02,491] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 14:56:02,605] DataMid.DominoInform:405 - Got HView05
+ [INFO ] [2017-08-17 15:01:02,081] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 15:01:02,183] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 15:01:02,292] DataMid.DominoInform:406 - Got HView05
+ [INFO ] [2017-08-17 15:01:02,707] DataMid.DominoInform:414 - Got documents number:34
+ [INFO ] [2017-08-17 15:01:02,765] DataMid.DominoInform:419 - document is not null
+ [INFO ] [2017-08-17 15:01:56,630] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 15:01:56,734] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 15:01:56,843] DataMid.DominoInform:406 - Got HView05
+ [INFO ] [2017-08-17 15:01:57,261] DataMid.DominoInform:414 - Got documents number:34
+ [INFO ] [2017-08-17 15:01:57,319] DataMid.DominoInform:419 - document is not null
+ [INFO ] [2017-08-17 15:02:32,847] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 15:02:32,949] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 15:02:33,060] DataMid.DominoInform:406 - Got HView05
+ [INFO ] [2017-08-17 15:02:33,479] DataMid.DominoInform:414 - Got documents number:34
+ [INFO ] [2017-08-17 15:02:33,537] DataMid.DominoInform:419 - document is not null
+ [INFO ] [2017-08-17 15:03:13,094] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 15:03:13,198] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 15:03:13,311] DataMid.DominoInform:406 - Got HView05
+ [INFO ] [2017-08-17 15:03:13,735] DataMid.DominoInform:414 - Got documents number:34
+ [INFO ] [2017-08-17 15:03:13,793] DataMid.DominoInform:419 - document is not null
+ [INFO ] [2017-08-17 15:12:28,360] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 15:12:28,466] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 15:12:28,579] DataMid.DominoInform:406 - Got HView05
+ [INFO ] [2017-08-17 15:12:28,997] DataMid.DominoInform:414 - Got documents number:34
+ [INFO ] [2017-08-17 15:12:29,093] DataMid.DominoInform:420 - document is not null
+ [INFO ] [2017-08-17 15:12:51,758] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-17 15:12:51,868] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-17 15:12:51,981] DataMid.DominoInform:406 - Got HView05
+ [INFO ] [2017-08-17 15:12:52,400] DataMid.DominoInform:414 - Got documents number:34
+ [INFO ] [2017-08-17 15:12:52,508] DataMid.DominoInform:420 - document is not null
+ [INFO ] [2017-08-17 15:20:24,325] DataMid.DominoInform:486 - Session created
+ [INFO ] [2017-08-17 15:20:24,428] DataMid.DominoInform:488 - Got Database
+ [INFO ] [2017-08-17 15:20:24,542] DataMid.DominoInform:492 - Got HView05
+ [INFO ] [2017-08-17 15:20:24,974] DataMid.DominoInform:498 - Got documents number:34
+ [INFO ] [2017-08-17 15:20:25,089] DataMid.DominoInform:503 - document is not null
+ [INFO ] [2017-08-17 15:24:33,170] DataMid.DominoInform:397 - Session created
+ [INFO ] [2017-08-17 15:24:33,272] DataMid.DominoInform:399 - Got Database
+ [INFO ] [2017-08-17 15:24:33,386] DataMid.DominoInform:441 - Got HView05
+ [INFO ] [2017-08-17 15:24:33,799] DataMid.DominoInform:447 - Got documents number:34
+ [INFO ] [2017-08-17 15:24:33,898] DataMid.DominoInform:452 - document is not null
+ [INFO ] [2017-08-17 15:27:49,979] DataMid.DominoInform:397 - Session created
+ [INFO ] [2017-08-17 15:27:50,094] DataMid.DominoInform:399 - Got Database
+ [INFO ] [2017-08-17 15:27:50,209] DataMid.DominoInform:441 - Got HView05
+ [INFO ] [2017-08-17 15:27:50,630] DataMid.DominoInform:447 - Got documents number:34
+ [INFO ] [2017-08-17 15:27:50,730] DataMid.DominoInform:452 - document is not null
+ [INFO ] [2017-08-17 15:30:38,885] DataMid.DominoInform:397 - Session created
+ [INFO ] [2017-08-17 15:30:38,995] DataMid.DominoInform:399 - Got Database
+ [INFO ] [2017-08-17 15:30:39,126] DataMid.DominoInform:441 - Got HView05
+ [INFO ] [2017-08-17 15:30:39,573] DataMid.DominoInform:447 - Got documents number:34
+ [INFO ] [2017-08-17 15:30:39,686] DataMid.DominoInform:452 - document is not null
+ [INFO ] [2017-08-17 15:39:15,773] DataMid.DominoInform:397 - Session created
+ [INFO ] [2017-08-17 15:39:15,900] DataMid.DominoInform:399 - Got Database
+ [INFO ] [2017-08-17 15:39:16,032] DataMid.DominoInform:441 - Got HView05
+ [INFO ] [2017-08-17 15:39:16,497] DataMid.DominoInform:447 - Got documents number:34
+ [INFO ] [2017-08-17 15:39:16,623] DataMid.DominoInform:452 - document is not null
+ [INFO ] [2017-08-17 15:46:19,130] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-17 15:46:19,240] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-17 15:46:19,395] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-17 15:48:18,836] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-17 15:48:18,944] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-17 15:48:19,118] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-17 15:52:14,617] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-17 15:52:14,725] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-17 15:52:14,896] DataMid.DominoInform:523 - Got DDView01
+ [INFO ] [2017-08-17 15:52:37,022] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-17 15:52:37,128] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-17 15:52:37,250] DataMid.DominoInform:523 - Got DDView01
+ [INFO ] [2017-08-17 15:54:19,493] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-17 15:54:19,604] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-17 15:54:19,722] DataMid.DominoInform:523 - Got DDView01
+ [INFO ] [2017-08-17 16:03:18,248] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-17 16:03:18,359] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-17 16:03:18,477] DataMid.DominoInform:523 - Got DDView01
+ [INFO ] [2017-08-18 12:57:46,549] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 12:57:46,640] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 12:57:46,683] DataMid.DominoInform:523 - Got DDView01
+ [INFO ] [2017-08-18 12:59:27,510] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 12:59:27,602] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 12:59:27,714] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-18 13:00:02,719] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:00:02,823] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:00:02,940] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-18 13:01:00,077] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:01:00,185] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:01:00,297] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-18 13:02:22,290] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:02:22,393] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:02:22,550] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-18 13:03:27,682] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:03:27,806] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:03:27,935] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-18 13:04:52,454] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:04:52,542] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:04:52,696] DataMid.DominoInform:523 - Got SSView01
+ [INFO ] [2017-08-18 13:06:00,432] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:06:00,544] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:06:00,649] DataMid.DominoInform:523 - Got SViewCH
+ [INFO ] [2017-08-18 13:12:41,076] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 13:12:41,183] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 13:12:41,225] DataMid.DominoInform:523 - Got SViewCH
+ [INFO ] [2017-08-18 14:45:06,363] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 14:45:06,463] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 14:45:06,610] DataMid.DominoInform:523 - Got View01
+ [INFO ] [2017-08-18 14:45:22,352] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 14:45:22,444] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 14:45:22,554] DataMid.DominoInform:523 - Got View01
+ [INFO ] [2017-08-18 21:08:55,934] DataMid.DominoInform:517 - Session created
+ [INFO ] [2017-08-18 21:08:56,182] DataMid.DominoInform:519 - Got Database
+ [INFO ] [2017-08-18 21:08:56,948] DataMid.DominoInform:523 - Got View01
+ [INFO ] [2017-08-18 21:20:25,479] DataMid.DominoInform:398 - Session created
+ [INFO ] [2017-08-18 21:20:25,753] DataMid.DominoInform:400 - Got Database
+ [INFO ] [2017-08-18 21:20:26,277] DataMid.DominoInform:405 - Got SView01
+ [INFO ] [2017-08-18 21:20:27,508] DataMid.DominoInform:409 - Got documents number:39
+ [INFO ] [2017-08-18 21:20:27,797] DataMid.DominoInform:413 - doc is not null
+ [INFO ] [2017-08-18 21:22:12,336] DataMid.DominoInform:431 - view01 recycled
+ [INFO ] [2017-08-18 21:51:16,100] DataMid.DominoInform:469 - Session created
+ [INFO ] [2017-08-18 21:51:16,358] DataMid.DominoInform:471 - Got Database
+ [INFO ] [2017-08-18 21:52:37,691] DataMid.DominoInform:469 - Session created
+ [INFO ] [2017-08-18 21:52:37,945] DataMid.DominoInform:471 - Got Database
+ [INFO ] [2017-08-18 21:58:53,300] DataMid.DominoInform:469 - Session created
+ [INFO ] [2017-08-18 21:58:53,502] DataMid.DominoInform:471 - Got Database
+ [INFO ] [2017-08-18 21:58:53,772] DataMid.DominoInform:477 - Got SSView01
+ [INFO ] [2017-08-18 22:02:44,016] DataMid.DominoInform:469 - Session created
+ [INFO ] [2017-08-18 22:02:44,196] DataMid.DominoInform:471 - Got Database
+ [INFO ] [2017-08-18 22:02:44,633] DataMid.DominoInform:477 - Got SSView01
+ [INFO ] [2017-08-18 22:04:18,342] DataMid.DominoInform:469 - Session created
+ [INFO ] [2017-08-18 22:04:18,532] DataMid.DominoInform:471 - Got Database
+ [INFO ] [2017-08-18 22:04:18,787] DataMid.DominoInform:477 - Got SSView01
+ [INFO ] [2017-08-18 22:06:21,294] DataMid.DominoInform:654 - Session created
+ [INFO ] [2017-08-18 22:06:21,640] DataMid.DominoInform:656 - Got Database
+ [INFO ] [2017-08-18 22:06:22,095] DataMid.DominoInform:660 - Got View01
+ [INFO ] [2017-08-18 22:09:13,256] DataMid.DominoInform:654 - Session created
+ [INFO ] [2017-08-18 22:09:13,462] DataMid.DominoInform:656 - Got Database
+ [INFO ] [2017-08-18 22:09:13,854] DataMid.DominoInform:660 - Got View01
+ [INFO ] [2017-08-18 22:12:06,604] DataMid.DominoInform:654 - Session created
+ [INFO ] [2017-08-18 22:12:07,023] DataMid.DominoInform:656 - Got Database
+ [INFO ] [2017-08-18 22:12:07,407] DataMid.DominoInform:660 - Got View01
+ [INFO ] [2017-08-18 22:23:44,373] DataMid.DominoInform:654 - Session created
+ [INFO ] [2017-08-18 22:23:44,669] DataMid.DominoInform:656 - Got Database
+ [INFO ] [2017-08-18 22:23:45,181] DataMid.DominoInform:677 - Got View01
+ [INFO ] [2017-08-18 22:23:45,534] DataMid.DominoInform:679 - Got documents number:1
+ [INFO ] [2017-08-18 22:23:45,536] DataMid.DominoInform:681 - dc is not null
+ [INFO ] [2017-08-18 22:23:46,554] DataMid.DominoInform:708 - dc recycled
+ [INFO ] [2017-08-18 22:25:52,677] DataMid.DominoInform:654 - Session created
+ [INFO ] [2017-08-18 22:25:52,938] DataMid.DominoInform:656 - Got Database
+ [INFO ] [2017-08-18 22:25:53,357] DataMid.DominoInform:677 - Got View01
+ [INFO ] [2017-08-18 22:25:53,660] DataMid.DominoInform:679 - Got documents number:1
+ [INFO ] [2017-08-18 22:25:53,661] DataMid.DominoInform:681 - dc is not null
+ [INFO ] [2017-08-18 22:25:54,518] DataMid.DominoInform:708 - dc recycled
+ [INFO ] [2017-08-18 22:31:17,784] CaiTest.DominoInform2:753 - Session created
+ [INFO ] [2017-08-18 22:31:18,057] CaiTest.DominoInform2:755 - Got Database
+ [INFO ] [2017-08-18 22:31:18,592] CaiTest.DominoInform2:776 - Got View01
+ [INFO ] [2017-08-18 22:31:18,916] CaiTest.DominoInform2:778 - Got documents number:1
+ [INFO ] [2017-08-18 22:31:18,917] CaiTest.DominoInform2:780 - dc is not null
+ [INFO ] [2017-08-18 22:31:19,964] CaiTest.DominoInform2:807 - dc recycled
+ [INFO ] [2017-08-19 10:45:10,430] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 10:45:10,657] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 10:45:11,024] CaiTest.DominoInform2:637 - Got HView05
+ [INFO ] [2017-08-19 10:45:12,225] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-19 10:45:12,558] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-19 10:49:04,962] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 10:49:05,161] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 10:49:05,449] CaiTest.DominoInform2:675 - Got HView05
+ [INFO ] [2017-08-19 10:49:06,436] CaiTest.DominoInform2:681 - Got documents number:34
+ [INFO ] [2017-08-19 10:49:06,706] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-19 10:54:56,401] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 10:54:56,607] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 10:54:56,887] CaiTest.DominoInform2:675 - Got HView05
+ [INFO ] [2017-08-19 10:55:02,039] CaiTest.DominoInform2:681 - Got documents number:34
+ [INFO ] [2017-08-19 10:55:03,466] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-19 10:56:49,137] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 10:56:49,341] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 10:56:49,627] CaiTest.DominoInform2:675 - Got HView05
+ [INFO ] [2017-08-19 10:56:50,615] CaiTest.DominoInform2:681 - Got documents number:34
+ [INFO ] [2017-08-19 10:56:50,883] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-19 11:08:55,601] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 11:08:55,854] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 11:08:56,221] CaiTest.DominoInform2:704 - Got View01
+ [INFO ] [2017-08-19 11:08:56,632] CaiTest.DominoInform2:706 - Got documents number:1
+ [INFO ] [2017-08-19 11:08:56,633] CaiTest.DominoInform2:708 - dc is not null
+ [INFO ] [2017-08-19 11:08:57,552] CaiTest.DominoInform2:735 - dc recycled
+ [INFO ] [2017-08-19 11:11:22,883] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 11:11:23,084] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 11:11:23,368] CaiTest.DominoInform2:704 - Got View01
+ [INFO ] [2017-08-19 11:11:23,640] CaiTest.DominoInform2:706 - Got documents number:1
+ [INFO ] [2017-08-19 11:11:23,641] CaiTest.DominoInform2:708 - dc is not null
+ [INFO ] [2017-08-19 11:11:24,428] CaiTest.DominoInform2:735 - dc recycled
+ [INFO ] [2017-08-19 11:11:58,814] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 11:11:59,587] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 11:11:59,963] CaiTest.DominoInform2:704 - Got View01
+ [INFO ] [2017-08-19 11:12:19,211] CaiTest.DominoInform2:706 - Got documents number:1
+ [INFO ] [2017-08-19 11:12:19,213] CaiTest.DominoInform2:708 - dc is not null
+ [INFO ] [2017-08-19 11:12:59,537] CaiTest.DominoInform2:735 - dc recycled
+ [INFO ] [2017-08-19 11:13:15,332] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 11:13:15,580] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 11:13:16,326] CaiTest.DominoInform2:704 - Got View01
+ [INFO ] [2017-08-19 11:13:17,658] CaiTest.DominoInform2:706 - Got documents number:1
+ [INFO ] [2017-08-19 11:13:17,659] CaiTest.DominoInform2:708 - dc is not null
+ [INFO ] [2017-08-19 11:13:19,894] CaiTest.DominoInform2:735 - dc recycled
+ [INFO ] [2017-08-19 11:17:01,429] CaiTest.DominoInform2:631 - Session created
+ [INFO ] [2017-08-19 11:17:01,637] CaiTest.DominoInform2:633 - Got Database
+ [INFO ] [2017-08-19 11:17:01,955] CaiTest.DominoInform2:704 - Got View01
+ [INFO ] [2017-08-19 11:17:02,218] CaiTest.DominoInform2:706 - Got documents number:8
+ [INFO ] [2017-08-19 11:17:02,219] CaiTest.DominoInform2:708 - dc is not null
+ [INFO ] [2017-08-19 11:17:06,356] CaiTest.DominoInform2:735 - dc recycled
+ [INFO ] [2017-08-19 13:06:00,962] CaiTest.DominoInform2:165 - Session created
+ [INFO ] [2017-08-19 13:06:01,098] CaiTest.DominoInform2:167 - Got Database
+ [INFO ] [2017-08-19 13:08:12,712] CaiTest.DominoInform2:165 - Session created
+ [INFO ] [2017-08-19 13:08:13,020] CaiTest.DominoInform2:167 - Got Database
+ [INFO ] [2017-08-19 13:09:08,608] CaiTest.DominoInform2:566 - Session created
+ [INFO ] [2017-08-19 13:09:08,743] CaiTest.DominoInform2:568 - Got Database
+ [INFO ] [2017-08-19 13:09:08,983] CaiTest.DominoInform2:574 - Got SSView01
  

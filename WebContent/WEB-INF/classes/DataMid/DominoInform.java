@@ -7,6 +7,7 @@ import lotus.domino.NotesException;
 import lotus.domino.NotesFactory;
 import lotus.domino.Session;
 import lotus.domino.View;
+import lotus.domino.ViewEntryCollection;
 import net.sf.json.JSONObject;
 
 import org.apache.log4j.LogManager;
@@ -304,6 +305,7 @@ public class DominoInform {
 		
 		return jsonObject;
 	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

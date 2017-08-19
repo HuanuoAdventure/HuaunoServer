@@ -1,11 +1,13 @@
 package CaiTest;
 import lotus.domino.Database;
 import lotus.domino.Document;
+import lotus.domino.Item;
 import lotus.domino.NotesException;
 import lotus.domino.NotesFactory;
 import lotus.domino.Session;
 import lotus.domino.View;
 
+import java.util.Vector;
 
 
 public class Phone_test {
@@ -23,12 +25,11 @@ public class Phone_test {
 			ss=NotesFactory.createSession(host,"admin","123456");
 			System.out.println("Session created");
 			
-			db=ss.getDatabase("oa.huanuo.com", "D:\\Lotus\\Domino\\data\\app\\xtwh.nsf");//第一个参数为服务器名称，第二个参数是对应数据库名称，
-	      										   								//只有在Domino服务器上第一个参数才能为空
+			db=ss.getDatabase("oa.huanuo.com", "D:\\Lotus\\Domino\\data\\app\\tzgg.nsf");//第一个参数为服务器名称，第二个参数是对应数据库名称，	      										   								//只有在Domino服务器上第一个参数才能为空
 			System.out.println("Got Database");
 			System.out.println(db.getFileName());
-			view=db.getView("DView03");
-			//view=db.getView("ZView01");//参数为通讯录的视图名称
+			//view=db.getView("SView10");			
+			view=db.getView("SSView01");//参数为通讯录的视图名称
 			System.out.println("Got View");
 			System.out.println(view.getAllEntries().getCount());//获取当前视图可筛选的列数
 			Document doc=view.getFirstDocument();//获取第一个文件
@@ -37,8 +38,32 @@ public class Phone_test {
 			while(doc!=null)//判断当前doc是否为空
 			{
 				//System.out.println(doc.getColumnValues());
-				System.out.println (doc.getItemValue("bmmc")); 
-				System.out.println(doc.getItems());//获取域名
+			    //System.out.println (doc.getItemValue("id")); 
+				//System.out.println (doc.getItemValueString("id"));
+				//System.out.println (view.getColumnNames());//获取列名
+				//System.out.println(doc.getItems());//获取域名
+				//Item item = doc.getFirstItem("textItem");
+				//System.out.println(item.getName());
+				//System.out.println(item.getValueString());
+				//Item item = doc.getFirstItem("numberItem");
+				//System.out.println(item.getName());
+				//System.out.println("Integer value: " + 
+				//item.getValueInteger());
+				//System.out.println("Double value: " + 
+				//item.getValueDouble());
+				//System.out.println(doc.getHttpURL());
+				System.out.println("HTTP:"+ view.getHttpURL());
+				//System.out.println(view.setSelectionFormula("@Now < @Adjust(@modified; 0; 0; 6; 0; 0; 0)"));
+				System.out.println(view.getUniversalID());//获取view唯一标识
+				System.out.println(doc.getNotesURL());
+				//System.out.println("http://oa.huanuo-nsb.com/app/zswd.nsf/SView01/"+doc.getHttpURL());
+				String s =(String)doc.getHttpURL();   
+			       String a[] = s.split("/");  //按照/截取字符串
+		      // System.out.println(a[0]);  
+			   // System.out.println(a[5]);   
+				//String uRLString=
+				System.out.print("http://oa.huanuo-nsb.com/app/tzgg.nsf/SView01/"+a[5]);
+				//System.out.println("Key: " + doc.getKey());
 				tmpDoc=view.getNextDocument(doc);//如果第一个文件不为空，则获取第二个文件
 				doc.recycle();//回收第一个文件
 				doc=tmpDoc;//将第二个文件赋值给第一个文件
