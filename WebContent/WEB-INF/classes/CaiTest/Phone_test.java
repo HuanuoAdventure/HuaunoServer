@@ -29,7 +29,7 @@ public class Phone_test {
 			System.out.println("Got Database");
 			System.out.println(db.getFileName());
 			//view=db.getView("SView10");			
-			view=db.getView("SSView01");//参数为通讯录的视图名称
+			view=db.getView("SView01");//参数为通讯录的视图名称
 			System.out.println("Got View");
 			System.out.println(view.getAllEntries().getCount());//获取当前视图可筛选的列数
 			Document doc=view.getFirstDocument();//获取第一个文件
@@ -41,7 +41,30 @@ public class Phone_test {
 			    //System.out.println (doc.getItemValue("id")); 
 				//System.out.println (doc.getItemValueString("id"));
 				//System.out.println (view.getColumnNames());//获取列名
-				//System.out.println(doc.getItems());//获取域名
+				System.out.println(doc.getItems());//获取域名
+				System.out.println(doc.getColumnValues());
+				System.out.println (doc.getItemValue("BinderDocIDOS"));
+				System.out.println (doc.getItemValue("MAINDOCOS"));
+				System.out.println (doc.getItemValue("ACTIVITYIDOS"));
+				System.out.println (doc.getItemValue("FolderIDOS"));
+				System.out.println (doc.getItemValue("FOLDERSTATUSOS"));
+				System.out.println (doc.getItemValue("INSTANCEOS"));
+				System.out.println (doc.getItemValue("INSTANCEIDOS"));
+				System.out.println (doc.getItemValue("ACTIVITYOS"));
+				System.out.println (doc.getItemValue("List"));
+				System.out.println (doc.getItemValue("WebViewerURLOS"));
+				System.out.println (doc.getItemValue("BinderDocIDOS"));
+				System.out.println (doc.getItemValue("MAINDOCOS"));
+				System.out.println (doc.getItemValue("ACTIVITYIDOS"));
+				System.out.println (doc.getItemValue("FolderIDOS"));
+				System.out.println (doc.getItemValue("FOLDERSTATUSOS"));
+				System.out.println (doc.getItemValue("INSTANCEOS"));
+				System.out.println (doc.getItemValue("INSTANCEIDOS"));
+				System.out.println (doc.getItemValue("ACTIVITYOS"));
+				System.out.println (doc.getItemValue("List"));
+				System.out.println (doc.getItemValue("WebViewerURLOS"));
+				
+				
 				//Item item = doc.getFirstItem("textItem");
 				//System.out.println(item.getName());
 				//System.out.println(item.getValueString());
@@ -52,17 +75,17 @@ public class Phone_test {
 				//System.out.println("Double value: " + 
 				//item.getValueDouble());
 				//System.out.println(doc.getHttpURL());
-				System.out.println("HTTP:"+ view.getHttpURL());
+				//System.out.println("HTTP:"+ view.getHttpURL());
 				//System.out.println(view.setSelectionFormula("@Now < @Adjust(@modified; 0; 0; 6; 0; 0; 0)"));
-				System.out.println(view.getUniversalID());//获取view唯一标识
-				System.out.println(doc.getNotesURL());
+				//System.out.println(view.getUniversalID());//获取view唯一标识
+				//System.out.println(doc.getNotesURL());
 				//System.out.println("http://oa.huanuo-nsb.com/app/zswd.nsf/SView01/"+doc.getHttpURL());
-				String s =(String)doc.getHttpURL();   
-			       String a[] = s.split("/");  //按照/截取字符串
+				//String s =(String)doc.getHttpURL();   
+			       //String a[] = s.split("/");  //按照/截取字符串
 		      // System.out.println(a[0]);  
 			   // System.out.println(a[5]);   
 				//String uRLString=
-				System.out.print("http://oa.huanuo-nsb.com/app/tzgg.nsf/SView01/"+a[5]);
+				//System.out.print("http://oa.huanuo-nsb.com/app/tzgg.nsf/SView01/"+a[5]);
 				//System.out.println("Key: " + doc.getKey());
 				tmpDoc=view.getNextDocument(doc);//如果第一个文件不为空，则获取第二个文件
 				doc.recycle();//回收第一个文件

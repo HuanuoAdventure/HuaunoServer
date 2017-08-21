@@ -637,15 +637,17 @@ public class DominoInform2 {
 				Document doc=view01.getDocumentByKey(str,true);//通过分类视图获取分类文档的ID，完全匹配
 				if (doc !=null){				
 					String sname=(String) doc.getItemValue("id").get(0);//通过文档分类ID获取文档名称
-					view02=db.getView("SSView01");
-					ViewEntryCollection dc=view02.getAllEntries();
+					System.out.println (doc.getItemValue("id").get(0));
+					view02=db.getView("SView01");
+					DocumentCollection dc =view02.getAllDocumentsByKey(sname,true);//true表示完全匹配
+					//ViewEntryCollection dc=view02.getAllEntries();
 					logger.info("Got documents number:"+dc.getCount());
-					Document document=view02.getDocumentByKey(sname,true);
-					document=view02.getFirstDocument();//获取第一个文件
+					if (dc !=null) {
+						logger.info("dc is not null");
+						Document document=dc.getFirstDocument();						
 					if (document !=null) {
 						jsonObject=new JSONObject();
 						logger.info("document is not null");
-						Document tmpDoc=null;
 						int docCount=dc.getCount();
 						if(docCount>4)
 						{
@@ -656,16 +658,17 @@ public class DominoInform2 {
 							jsonObject.put("more", 0);
 							jsonObject.put("rowCount", (int)dc.getCount());
 						}
-						
+						Document tmpDoc=null;
 						int rowCount=0;
-						while((doc!=null)&&(rowCount<4))//判断当前doc是否为空,且是否超过4个
+						while((document!=null)&&(rowCount<4))//判断当前doc是否为空,且是否超过4个
 						{
 							rowCount++;
 							jsonObject.put(String.valueOf(rowCount), document.getItemValue("bt").get(0));
-							tmpDoc=view02.getNextDocument(document);//如果第一个文件不为空，则获取第二个文件
+							tmpDoc=dc.getNextDocument(document);//如果第一个文件不为空，则获取第二个文件
 							document=tmpDoc;//将第二个文件赋值给第一个文件
 						}
 						}
+				}
 				}
 			}
 			else if (tag.equals("DocumentList")) {
@@ -675,25 +678,34 @@ public class DominoInform2 {
 				Document doc=view01.getDocumentByKey(str,true);//通过分类视图获取分类文档的ID，完全匹配
 				if (doc !=null){				
 					String sname=(String) doc.getItemValue("id").get(0);//通过文档分类ID获取文档名称
-					view02=db.getView("SView01");
-					ViewEntryCollection dc=view02.getAllEntries();
+					view02=db.getView("SView01");		
+					//Document document=view02.getDocumentByKey(sname,true);
+					DocumentCollection dc =view02.getAllDocumentsByKey(sname,true);//true表示完全匹配
+					//ViewEntryCollection dc=view02.getAllEntries();
 					logger.info("Got documents number:"+dc.getCount());
-					Document document=view02.getDocumentByKey(sname,true);
-					document=view02.getFirstDocument();//获取第一个文件
-					if (document !=null) {
-						jsonObject=new JSONObject();
-						logger.info("document is not null");
+					if (dc !=null) {
+						logger.info("dc is not null");
+						Document document=dc.getFirstDocument();
 						Document tmpDoc=null;
-						jsonObject.put("rowCount", (int)dc.getCount());
-						int rowCount=0;
-						while((document!=null))
-						{
-							rowCount++;
-							jsonObject.put(String.valueOf(rowCount), document.getItemValue("bt").get(0));
-							tmpDoc=view02.getNextDocument(document);//如果第一个文件不为空，则获取第二个文件
-							document=tmpDoc;//将第二个文件赋值给第一个文件
+						if(document !=null){
+							jsonObject=new JSONObject();
+							jsonObject.put("rowCount", (int)dc.getCount());
+							int rowCount=0;
+							while(document!=null)//判断当前doc是否为空
+							{
+								rowCount++;
+								jsonObject.put(String.valueOf(rowCount), document.getItemValue("bt").get(0));
+								tmpDoc=dc.getNextDocument(document);//如果第一个文件不为空，则获取第二个文件
+								document=tmpDoc;//将第二个文件赋值给第一个文件
+							}
 						}
-						}
+						doc.recycle();
+						logger.info("doc recycled");
+						view01.recycle();
+						logger.info("view01 recycled");
+						view02.recycle();
+						logger.info("view02 recycled");
+					}
 				}
 				
 			}

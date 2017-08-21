@@ -9,7 +9,7 @@ public class test {
 
 		//String tag="华诺";
 		DominoInform2 aTest=new DominoInform2();
-		JSONObject b=aTest.getAnnoInform("邮件系统恢复使用通知","Anno");//报错行
+		JSONObject b=aTest.getDocList("生活在华诺","DocumentList");//报错行
 		System.out.println(b);
     }
   }

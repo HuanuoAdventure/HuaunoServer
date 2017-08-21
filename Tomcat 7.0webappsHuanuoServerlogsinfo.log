@@ -488,4 +488,241 @@
  [INFO ] [2017-08-19 13:09:08,608] CaiTest.DominoInform2:566 - Session created
  [INFO ] [2017-08-19 13:09:08,743] CaiTest.DominoInform2:568 - Got Database
  [INFO ] [2017-08-19 13:09:08,983] CaiTest.DominoInform2:574 - Got SSView01
+ [INFO ] [2017-08-20 20:53:24,234] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 20:53:24,440] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 20:53:24,715] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 20:53:25,667] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 20:53:25,970] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 20:53:40,204] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 20:53:40,429] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 20:53:40,706] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 20:53:41,672] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 20:53:41,959] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 20:53:52,289] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 20:53:52,488] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 20:53:52,772] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 20:53:53,663] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 20:53:53,992] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 20:55:22,122] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 20:55:22,364] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 20:55:22,755] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 20:55:24,142] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 20:55:24,475] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:07:59,433] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:07:59,643] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:08:00,015] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:08:01,181] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:08:01,527] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:08:17,572] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:08:17,816] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:08:18,190] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:08:19,366] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:08:19,660] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:09:35,020] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:09:35,224] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:09:35,535] CaiTest.DominoInform2:675 - Got HView05
+ [INFO ] [2017-08-20 21:09:36,472] CaiTest.DominoInform2:681 - Got documents number:34
+ [INFO ] [2017-08-20 21:09:36,767] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:11:55,764] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:11:56,052] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:11:56,372] CaiTest.DominoInform2:675 - Got HView05
+ [INFO ] [2017-08-20 21:11:57,505] CaiTest.DominoInform2:681 - Got documents number:34
+ [INFO ] [2017-08-20 21:11:57,870] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:12:46,090] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:12:46,283] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:12:46,556] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:12:47,440] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:12:47,661] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:13:11,364] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:13:11,605] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:13:11,866] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:13:12,762] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:13:13,017] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:13:49,146] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:13:49,305] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:13:49,570] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:13:50,457] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:13:50,683] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:15:07,803] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:15:08,079] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:15:08,776] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:15:09,984] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:15:10,316] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:15:25,514] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:15:25,817] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:15:26,210] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:15:27,739] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:15:28,109] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:30:21,545] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:30:21,824] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:30:22,198] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:30:23,622] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:30:23,812] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:30:35,646] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:30:35,902] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:30:36,280] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:30:37,533] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:30:37,769] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:30:54,739] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:30:54,981] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:30:55,370] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:30:56,676] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:30:56,874] CaiTest.DominoInform2:648 - document is not null
+ [INFO ] [2017-08-20 21:33:01,085] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:33:01,293] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:33:01,648] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:33:02,925] CaiTest.DominoInform2:680 - Got documents number:34
+ [INFO ] [2017-08-20 21:33:03,252] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 21:34:19,607] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:34:19,834] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:34:20,194] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:34:21,411] CaiTest.DominoInform2:680 - Got documents number:34
+ [INFO ] [2017-08-20 21:34:21,601] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 21:38:18,301] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:38:18,545] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:38:18,832] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:38:19,790] CaiTest.DominoInform2:682 - Got documents number:0
+ [INFO ] [2017-08-20 21:38:19,849] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:40:23,246] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:40:23,520] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:40:23,903] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:40:25,133] CaiTest.DominoInform2:682 - Got documents number:4
+ [INFO ] [2017-08-20 21:40:25,198] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:40:39,736] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:40:40,040] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:40:40,394] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:40:41,709] CaiTest.DominoInform2:682 - Got documents number:22
+ [INFO ] [2017-08-20 21:40:41,786] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:45:12,562] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:45:12,820] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:45:13,181] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:45:14,295] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 21:45:14,354] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:57:23,963] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:57:24,188] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:57:24,594] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 21:57:25,791] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 21:57:25,852] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 21:59:47,707] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 21:59:47,976] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 21:59:48,355] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 21:59:49,576] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 21:59:49,778] CaiTest.DominoInform2:647 - document is not null
+ [INFO ] [2017-08-20 22:00:11,642] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:00:11,908] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:00:12,272] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 22:00:13,613] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 22:00:13,831] CaiTest.DominoInform2:647 - document is not null
+ [INFO ] [2017-08-20 22:00:29,165] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:00:29,403] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:00:29,822] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-20 22:00:31,049] CaiTest.DominoInform2:643 - Got documents number:34
+ [INFO ] [2017-08-20 22:00:31,246] CaiTest.DominoInform2:647 - document is not null
+ [INFO ] [2017-08-20 22:01:23,027] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:01:23,236] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:01:38,746] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:01:38,982] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:01:39,346] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:01:40,660] CaiTest.DominoInform2:682 - Got documents number:4
+ [INFO ] [2017-08-20 22:01:40,716] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:02:04,810] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:02:05,058] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:02:05,470] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:02:06,807] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 22:02:06,914] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:03:19,229] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:03:19,483] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:03:19,868] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:03:21,637] CaiTest.DominoInform2:682 - Got documents number:22
+ [INFO ] [2017-08-20 22:03:21,693] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:04:11,774] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:04:12,026] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:04:12,414] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:04:13,613] CaiTest.DominoInform2:682 - Got documents number:22
+ [INFO ] [2017-08-20 22:04:13,708] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:08:56,559] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:08:56,820] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:08:57,200] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:08:58,357] CaiTest.DominoInform2:682 - Got documents number:22
+ [INFO ] [2017-08-20 22:08:58,426] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:09:55,312] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:09:55,632] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:09:56,006] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:09:57,260] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 22:09:57,316] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:16:57,605] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:16:57,854] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:16:58,238] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:16:59,410] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 22:16:59,473] CaiTest.DominoInform2:685 - document is not null
+ [INFO ] [2017-08-20 22:27:43,890] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:27:44,137] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:27:44,528] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:27:45,655] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 22:27:45,723] CaiTest.DominoInform2:686 - document is not null
+ [INFO ] [2017-08-20 22:29:58,230] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:29:58,492] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:29:58,881] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:29:59,982] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 22:29:59,983] CaiTest.DominoInform2:684 - dc is not null
+ [INFO ] [2017-08-20 22:30:19,214] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:30:19,467] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:30:19,826] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:30:20,894] CaiTest.DominoInform2:682 - Got documents number:8
+ [INFO ] [2017-08-20 22:30:20,896] CaiTest.DominoInform2:684 - dc is not null
+ [INFO ] [2017-08-20 22:30:23,933] CaiTest.DominoInform2:702 - dc recycled
+ [INFO ] [2017-08-20 22:30:24,078] CaiTest.DominoInform2:704 - view01 recycled
+ [INFO ] [2017-08-20 22:30:42,183] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-20 22:30:42,449] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-20 22:30:42,846] CaiTest.DominoInform2:674 - Got HView05
+ [INFO ] [2017-08-20 22:30:43,889] CaiTest.DominoInform2:682 - Got documents number:22
+ [INFO ] [2017-08-20 22:30:43,890] CaiTest.DominoInform2:684 - dc is not null
+ [INFO ] [2017-08-20 22:30:51,542] CaiTest.DominoInform2:702 - dc recycled
+ [INFO ] [2017-08-20 22:30:51,686] CaiTest.DominoInform2:704 - view01 recycled
+ [INFO ] [2017-08-21 20:51:46,093] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 20:51:46,310] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 20:51:46,614] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-21 20:51:48,215] CaiTest.DominoInform2:644 - Got documents number:22
+ [INFO ] [2017-08-21 20:51:48,215] CaiTest.DominoInform2:646 - dc is not null
+ [INFO ] [2017-08-21 20:51:48,294] CaiTest.DominoInform2:651 - document is not null
+ [INFO ] [2017-08-21 20:52:26,901] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 20:52:27,133] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 20:52:27,413] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-21 20:52:28,462] CaiTest.DominoInform2:644 - Got documents number:22
+ [INFO ] [2017-08-21 20:52:28,462] CaiTest.DominoInform2:646 - dc is not null
+ [INFO ] [2017-08-21 20:52:28,515] CaiTest.DominoInform2:651 - document is not null
+ [INFO ] [2017-08-21 20:55:52,120] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 20:55:52,667] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 20:55:53,013] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-21 20:55:53,805] CaiTest.DominoInform2:644 - Got documents number:22
+ [INFO ] [2017-08-21 20:55:53,805] CaiTest.DominoInform2:646 - dc is not null
+ [INFO ] [2017-08-21 20:55:53,868] CaiTest.DominoInform2:650 - document is not null
+ [INFO ] [2017-08-21 20:56:13,788] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 20:56:13,957] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 20:56:14,204] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-21 20:56:14,957] CaiTest.DominoInform2:644 - Got documents number:4
+ [INFO ] [2017-08-21 20:56:14,957] CaiTest.DominoInform2:646 - dc is not null
+ [INFO ] [2017-08-21 20:56:15,020] CaiTest.DominoInform2:650 - document is not null
+ [INFO ] [2017-08-21 20:56:35,617] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 20:56:35,780] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 20:56:36,025] CaiTest.DominoInform2:636 - Got HView05
+ [INFO ] [2017-08-21 20:56:36,697] CaiTest.DominoInform2:644 - Got documents number:8
+ [INFO ] [2017-08-21 20:56:36,699] CaiTest.DominoInform2:646 - dc is not null
+ [INFO ] [2017-08-21 20:56:36,732] CaiTest.DominoInform2:650 - document is not null
+ [INFO ] [2017-08-21 21:04:09,078] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 21:04:09,348] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 21:04:09,733] CaiTest.DominoInform2:677 - Got HView05
+ [INFO ] [2017-08-21 21:04:19,933] CaiTest.DominoInform2:685 - Got documents number:22
+ [INFO ] [2017-08-21 21:04:19,934] CaiTest.DominoInform2:687 - dc is not null
+ [INFO ] [2017-08-21 21:05:08,112] CaiTest.DominoInform2:703 - doc recycled
+ [INFO ] [2017-08-21 21:05:08,226] CaiTest.DominoInform2:705 - view01 recycled
+ [INFO ] [2017-08-21 21:05:08,563] CaiTest.DominoInform2:707 - view02 recycled
+ [INFO ] [2017-08-21 21:06:18,908] CaiTest.DominoInform2:630 - Session created
+ [INFO ] [2017-08-21 21:06:19,063] CaiTest.DominoInform2:632 - Got Database
+ [INFO ] [2017-08-21 21:06:19,274] CaiTest.DominoInform2:677 - Got HView05
+ [INFO ] [2017-08-21 21:06:19,923] CaiTest.DominoInform2:685 - Got documents number:8
+ [INFO ] [2017-08-21 21:06:19,923] CaiTest.DominoInform2:687 - dc is not null
+ [INFO ] [2017-08-21 21:06:21,912] CaiTest.DominoInform2:703 - doc recycled
+ [INFO ] [2017-08-21 21:06:21,987] CaiTest.DominoInform2:705 - view01 recycled
+ [INFO ] [2017-08-21 21:06:22,053] CaiTest.DominoInform2:707 - view02 recycled
  
