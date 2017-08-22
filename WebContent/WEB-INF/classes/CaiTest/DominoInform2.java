@@ -1,5 +1,7 @@
 package CaiTest;
 
+import java.util.Vector;
+
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
@@ -11,6 +13,7 @@ import lotus.domino.NotesFactory;
 import lotus.domino.Session;
 import lotus.domino.View;
 import lotus.domino.ViewEntryCollection;
+import lotus.domino.cso.EmbeddedObject;
 import net.sf.json.JSONObject;
 import JavaBean.InformBean;
 
@@ -734,7 +737,7 @@ public class DominoInform2 {
 							}
 							
 							int rowCount=0;
-							while((doc!=null)&&(rowCount<10))//判断当前doc是否为空,且是否超过50个
+							while((doc!=null)&&(rowCount<10))//判断当前doc是否为空,且是否超过10个
 							{
 								rowCount++;
 								jsonObject.put(String.valueOf(rowCount), doc.getItemValue("bt").get(0));
@@ -804,7 +807,7 @@ return jsonObject;
 			logger.info("Got Database");											    //只有在Domino服务器上第一个参数才能为空
 			if(tag.equals("Doc"))				
 			{
-				view01=db.getView("View01");//获取别名为View01的视图名称，此视图为按姓名筛选的通讯录
+				view01=db.getView("View01");//获取别名为View01的视图名称，此视图为文档名称筛选
 			    logger.info("Got View01");
 				Document doc=view01.getDocumentByKey(str,true);
 				System.out.println("string created");
@@ -812,14 +815,24 @@ return jsonObject;
 					System.out.println("string created");
 					String title=(String) doc.getItemValue("bt").get(0);//文档标题
 					String s =(String)doc.getHttpURL();   
-				    String a[] = s.split("/");  //按照/截取字符串
+				    String a[] = s.split("/");  //按照/截取字符串获取URL结尾字符串
 					String docurl="http://oa.huanuo-nsb.com/app/zswd.nsf/SView01/"+a[5];//URL
+					String docurlcString="http://oa.huanuo-nsb.com/app/zswd.nsf/SView01/"+(String)doc.getItemValue("S_unid").get(0);
+					Vector v = ss.evaluate("@AttachmentNames",doc);//获取附件名称
+					if (!v.isEmpty()) {
+						for (int i = 0; i < v.size(); i++) {
+							//EmbeddedObject eObject=(EmbeddedObject) doc.getAttachment((String)v.elementAt(i));
+							//if (eObject!=null) {
+					String urlString=docurlcString+"/$FILE/"+v.elementAt(i);
 					jsonObject=new JSONObject();
-					jsonObject.put("docurl", docurl);
 					jsonObject.put("title",title);
+					jsonObject.put("url", docurl);//将URL和文档标题储存在jsonObject里URL为点击文档名称进入的界面
+					jsonObject.put("docurl", urlString);//docurl为文档附件下载的url	
+					//}
+						}
 					}
 				}
-		
+			}
 	}catch (Exception e) {
 		// TODO: handle exception
 		e.printStackTrace();

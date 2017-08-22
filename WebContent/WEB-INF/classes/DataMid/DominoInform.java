@@ -151,7 +151,7 @@ public class DominoInform {
 		}
 		return jsonObject;
 	}
-	public JSONObject getInformList(String str,String tag)
+	public JSONObject getInformList(String str,String tag)//获取个人信息的JsonObject，第一个参数为需要搜索的内容，第二个参数为第一个参数的类型"id" or "name"
 	{//返回人名列表
 		JSONObject jsonObject=null;
 		String host="192.168.0.38:63148";//定义数据库地址
@@ -201,7 +201,7 @@ public class DominoInform {
 			}
 			else if(tag.equals("str"))//搜索框响应人员列表
 			{
-				if (str.matches("[0-9]{1,}"))
+				if (str.matches("[0-9]{1,}"))//判断是否为数字，若为数字则在工号-姓名的视图里搜索，否则到以姓名进行搜索的视图里搜索
 				{
 					view02=db.getView("AView03");//获取别名为Aview01的视图名称，此视图按姓名筛选的通讯录
 					logger.info("Got AView03");

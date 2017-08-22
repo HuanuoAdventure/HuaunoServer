@@ -6,8 +6,11 @@ import lotus.domino.NotesException;
 import lotus.domino.NotesFactory;
 import lotus.domino.Session;
 import lotus.domino.View;
+import lotus.domino.cso.EmbeddedObject;
 
 import java.util.Vector;
+
+import com.sun.xml.internal.ws.api.message.Attachment;
 
 
 public class Phone_test {
@@ -25,46 +28,46 @@ public class Phone_test {
 			ss=NotesFactory.createSession(host,"admin","123456");
 			System.out.println("Session created");
 			
-			db=ss.getDatabase("oa.huanuo.com", "D:\\Lotus\\Domino\\data\\app\\tzgg.nsf");//第一个参数为服务器名称，第二个参数是对应数据库名称，	      										   								//只有在Domino服务器上第一个参数才能为空
+			db=ss.getDatabase("oa.huanuo.com", "D:\\Lotus\\Domino\\data\\app\\zswd.nsf");//第一个参数为服务器名称，第二个参数是对应数据库名称，	      										   								//只有在Domino服务器上第一个参数才能为空
 			System.out.println("Got Database");
 			System.out.println(db.getFileName());
 			//view=db.getView("SView10");			
-			view=db.getView("SView01");//参数为通讯录的视图名称
+			view=db.getView("View01");//参数为通讯录的视图名称
 			System.out.println("Got View");
 			System.out.println(view.getAllEntries().getCount());//获取当前视图可筛选的列数
+			//System.out.println(view.getAllEntries());
 			Document doc=view.getFirstDocument();//获取第一个文件
 			//System.out.println (doc.getItemValueString ("sjbm")); 
+			/*Vector v = ss.evaluate("@AttachmentNames",doc);
+			if (!v.isEmpty()) {
+				for (int i = 0; i < v.size(); i++) {
+					EmbeddedObject eObject=(EmbeddedObject) doc.getAttachment((String)v.elementAt(i));
+					if (eObject!=null) {
+					//Attachment fileInfo=new Attachment();
+						StringBuffer urlBuffer=new StringBuffer();
+						//urlBuffer.append(DocTest.getComfig("dominoFileDown"));
+						urlBuffer.append("user_id").append("name");
+						System.out.println(v);
+						System.out.println(eObject);
+						
+					}
+					
+				}
+				
+				
+			}*/
 			
 			while(doc!=null)//判断当前doc是否为空
 			{
-				//System.out.println(doc.getColumnValues());
-			    //System.out.println (doc.getItemValue("id")); 
+				System.out.println(doc.getColumnValues());
+			    System.out.println (doc.getItemValue("unid")); 
 				//System.out.println (doc.getItemValueString("id"));
 				//System.out.println (view.getColumnNames());//获取列名
 				System.out.println(doc.getItems());//获取域名
-				System.out.println(doc.getColumnValues());
-				System.out.println (doc.getItemValue("BinderDocIDOS"));
-				System.out.println (doc.getItemValue("MAINDOCOS"));
-				System.out.println (doc.getItemValue("ACTIVITYIDOS"));
-				System.out.println (doc.getItemValue("FolderIDOS"));
-				System.out.println (doc.getItemValue("FOLDERSTATUSOS"));
-				System.out.println (doc.getItemValue("INSTANCEOS"));
-				System.out.println (doc.getItemValue("INSTANCEIDOS"));
-				System.out.println (doc.getItemValue("ACTIVITYOS"));
-				System.out.println (doc.getItemValue("List"));
-				System.out.println (doc.getItemValue("WebViewerURLOS"));
-				System.out.println (doc.getItemValue("BinderDocIDOS"));
-				System.out.println (doc.getItemValue("MAINDOCOS"));
-				System.out.println (doc.getItemValue("ACTIVITYIDOS"));
-				System.out.println (doc.getItemValue("FolderIDOS"));
-				System.out.println (doc.getItemValue("FOLDERSTATUSOS"));
-				System.out.println (doc.getItemValue("INSTANCEOS"));
-				System.out.println (doc.getItemValue("INSTANCEIDOS"));
-				System.out.println (doc.getItemValue("ACTIVITYOS"));
-				System.out.println (doc.getItemValue("List"));
-				System.out.println (doc.getItemValue("WebViewerURLOS"));
+				//System.out.println(doc.getColumnValues());
 				
-				
+			//	System.out.println (doc.getItemValue("drcl"));
+				//System.out.println (doc.getItemValue("position"));
 				//Item item = doc.getFirstItem("textItem");
 				//System.out.println(item.getName());
 				//System.out.println(item.getValueString());
@@ -91,7 +94,7 @@ public class Phone_test {
 				doc.recycle();//回收第一个文件
 				doc=tmpDoc;//将第二个文件赋值给第一个文件
 			}
-			//System.out.println(doc.getItemValue("Name"));
+			System.out.println(doc.getItemValue("$FILE"));
 			//[FORM, NO, Name, Department, xh, bmid, EMail, MP, id, photo_bz, Birthday, Sex, STATUS, PYSZM, $UpdatedBy, $Revisions]
 		} catch (NotesException e) {
 			// TODO Auto-generated catch block
