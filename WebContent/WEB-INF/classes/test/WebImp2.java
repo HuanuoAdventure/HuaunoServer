@@ -123,6 +123,17 @@ public class WebImp2 extends HttpServlet {
 			pw.println("<input type=text name=worktype>");
 			pw.println("<input type=submit value=submit>");
 			pw.println("</form>");
+			pw.println("<h1>GetDetailForm</h1>");
+			pw.println("<form action=GetApplicationForm method=post>");
+			pw.println("id");
+			pw.println("<input type=text name=id>");
+			pw.println("token");
+			pw.println("<input type=text name=token>");
+			pw.println("worktype");
+			pw.println("<input type=text name=worktype>");
+			pw.println("docid");
+			pw.println("<input type=text name=docid>");
+			pw.println("<input type=submit value=submit>");
 			pw.println("</form>");
 			pw.println("<h1>GetAnno</h1>");
 			pw.println("<form action=Announcement method=post>");
